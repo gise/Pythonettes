@@ -1,0 +1,18 @@
+http://www.instructables.com/id/Easy-Designs-Turtle-Graphics-Python/step3/Second-Design-Cool-spiral/
+
+http://openbookproject.net/thinkcs/python/english3e/hello_little_turtles.html
+
+Colors! http://www.discoveryplayground.com/computer-programming-for-kids/rgb-colors/
+
+https://docs.python.org/2/library/turtle.html#turtle.setheading
+
+http://www.snee.com/logo/logo4kids.pdf
+
+http://blog.tibarazmi.com/draw-flower-using-turtle/
+
+http://nghiaho.com/?p=1603
+
+https://opentechschool.github.io/python-beginners/en/functions_parameters.html
+
+https://ehmatthes.github.io/pcc/cheatsheets/README.html
+
